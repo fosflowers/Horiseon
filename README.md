@@ -6,4 +6,4 @@ In this challenge I improved this website's functionality and appearance. I adde
 
 https://fosflowers.github.io/Horiseon/
 
-<img src="https://courses.bootcampspot.com/courses/1551/files/1677651/preview"></img>
+<img src="https://courses.bootcampspot.com/courses/1551/files/1677651/preview">

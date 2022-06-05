@@ -97,6 +97,9 @@ header nav ul li {
 
 /*social engine optimization end*/
 
+
+/*benefits sidebar start*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,55 +109,23 @@ header nav ul li {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+} 
 
-.benefit-lead {
+.benefit-text {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/*benefits sidebar end*/
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 /*online reputation*/
 
